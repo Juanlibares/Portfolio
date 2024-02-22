@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <p className="read-the-docs">
-        Portfolio de Juan
+        Portfolio de Juan asd
       </p>
     </>
   )
