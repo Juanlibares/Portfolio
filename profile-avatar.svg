@@ -1,0 +1,4 @@
+<svg width="128" height="128" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="64" cy="64" r="64" fill="linear-gradient(135deg, #667eea 0%, #764ba2 100%)"/>
+  <text x="64" y="72" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="white" text-anchor="middle">J</text>
+</svg>
