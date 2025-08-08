@@ -1,0 +1,267 @@
+{
+    "personal": {
+        "name": "Juan",
+        "fullName": "Juan Pablo Libares de Lamadrid",
+        "title": "Desarrollador Full Stack",
+        "description": "Desarrollador Full Stack especializado en crear experiencias digitales excepcionales con React, Node.js y tecnologías modernas. Experiencia en administración e infraestructura de redes, flujo de datos e información y creador nato.",
+        "experience": "+3 años de experiencia creando aplicaciones web y móviles",
+        "profileImage": "/juan.png",
+        "cv": "/cv-juan-libares.pdf"
+    },
+    "contact": {
+        "email": "juanlibares@outlook.com",
+        "phone": "+54 9 221-4954281",
+        "location": "Navarro, Buenos Aires, Argentina",
+        "github": "https://github.com/juanlibares",
+        "linkedin": "https://linkedin.com/in/juanlibares/",
+        "portfolio": "https://juanlibares.github.io/Portfolio"
+    },
+    "stats": {
+        "projects": "10+",
+        "technologies": "25+",
+        "clients": "10+"
+    },
+    "skills": [
+        {
+            "category": "Frontend",
+            "icon": "Globe",
+            "items": [
+                "React",
+                "Next.js",
+                "TypeScript",
+                "Tailwind CSS",
+                "Vite"
+            ]
+        },
+        {
+            "category": "Backend",
+            "icon": "Server",
+            "items": [
+                "Node.js",
+                "Express",
+                "PHP",
+                "Laravel",
+                "API REST"
+            ]
+        },
+        {
+            "category": "Database",
+            "icon": "Database",
+            "items": [
+                "MySQL",
+                "MongoDB",
+                "Firebase",
+                "PostgreSQL"
+            ]
+        },
+        {
+            "category": "Mobile",
+            "icon": "Smartphone",
+            "items": [
+                "React Native",
+                "Expo",
+                "Android",
+                "iOS"
+            ]
+        },
+        {
+            "category": "Tools",
+            "icon": "Code",
+            "items": [
+                "Git",
+                "VS Code",
+                "Docker",
+                "Figma",
+                "Postman"
+            ]
+        },
+        {
+            "category": "Design",
+            "icon": "Palette",
+            "items": [
+                "UI/UX",
+                "Responsive Design",
+                "Prototipado"
+            ]
+        }
+    ],
+    "experience": [
+        {
+            "year": "2024",
+            "title": "Asumo el rol de Jefe de Innovación Digital y Tecnología",
+            "description": "Proyect management de soluciones tecnológicas e infraestructura.",
+            "tech": [
+                "Microtik",
+                "ASP.NET",
+                "Firebase",
+                "Ubiquiti"
+            ]
+        },
+        {
+            "year": "2023",
+            "title": "Programación Senior",
+            "description": "Lanzo aplicaciones moviles con Cordova.",
+            "tech": [
+                "React",
+                "TypeScript"
+            ]
+        },
+        {
+            "year": "2022",
+            "title": "Inicio en la Municipalidad de Navarro como administrativo informático",
+            "description": "Primeros pasos en la administración pública.",
+            "tech": [
+                "Oracle",
+                "FOX",
+                "PHP"
+            ]
+        },
+        {
+            "year": "2021",
+            "title": "Termino de realizar la carrera de programación Backend",
+            "description": "Primeros pasos en el mundo del desarrollo web.",
+            "tech": [
+                "Node.js",
+                "Express",
+                "Routes",
+                "PHP",
+                "MySQL",
+                "PostgreSQL",
+                "REST API",
+                "JSON",
+                "JWT",
+                "MVC",
+                "CRUD",
+                "Git",
+                "GitHub"
+            ]
+        },
+        {
+            "year": "2016",
+            "title": "Inicio mi carrera en Lic. en Sistemas de Información",
+            "description": "Primeros pasos en el mundo de la informática.",
+            "tech": [
+                "Assembler",
+                "PHP",
+                "Pascal",
+                "Lógica computacional"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "id": 1,
+            "title": "App Mi Navarro",
+            "description": "Aplicación móvil para la gestión de servicios municipales de la ciudad.",
+            "image": "/minavarro.jpg",
+            "tech": [
+                "React Native",
+                "Expo",
+                "Firebase",
+                "Maps API"
+            ],
+            "category": "Mobile App",
+            "icon": "Smartphone",
+            "links": {
+                "demo": "#",
+                "github": "#"
+            },
+            "featured": true
+        },
+        {
+            "id": 2,
+            "title": "CEN - Control de Estacionamiento de Navarro",
+            "description": "Sistema completo de control de estacionamiento con gestión de espacios y reportes en tiempo real.",
+            "image": "/cen.jpg",
+            "tech": [
+                "React",
+                "Node.js",
+                "Express",
+                "MySQL",
+                "Material-UI"
+            ],
+            "category": "Web App",
+            "icon": "Database",
+            "links": {
+                "demo": "#",
+                "github": "#"
+            },
+            "featured": true
+        },
+        {
+            "id": 3,
+            "title": "TodoSuma",
+            "description": "Videojuego de rol online multijugador cuyo objetivo es aumentar la productividad diaria.",
+            "image": "/Proximamente.jpg",
+            "tech": [
+                "React Native",
+                "Expo",
+                "MySQL"
+            ],
+            "category": "Web App",
+            "icon": "Globe",
+            "links": {
+                "demo": "#",
+                "github": "#"
+            },
+            "featured": false
+        },
+        {
+            "id": 4,
+            "title": "Sistema Cine Gran Navarro",
+            "description": "Sistema de reservas y gestión de entradas para cine local.",
+            "image": "/cine.png",
+            "tech": [
+                "React",
+                "MySQL",
+                "JavaScript",
+                "CSS"
+            ],
+            "category": "Web App",
+            "icon": "Globe",
+            "links": {
+                "demo": "#",
+                "github": "#"
+            },
+            "featured": false
+        },
+        {
+            "id": 5,
+            "title": "Quebrados",
+            "description": "App de mini juegos.",
+            "image": "/quebrados.jpg",
+            "tech": [
+                "React Native",
+                "Expo",
+                "JavaScript"
+            ],
+            "category": "Mobile App",
+            "icon": "Smartphone",
+            "links": {
+                "demo": "#",
+                "github": "#"
+            },
+            "featured": false
+        }
+    ],
+    "socialMedia": [
+        {
+            "name": "GitHub",
+            "icon": "Github",
+            "url": "https://github.com/juanlibares",
+            "label": "GitHub"
+        },
+        {
+            "name": "LinkedIn",
+            "icon": "Linkedin",
+            "url": "https://linkedin.com/in/juanlibares",
+            "label": "LinkedIn"
+        },
+        {
+            "name": "Email",
+            "icon": "Mail",
+            "url": "mailto:juanlibares@outlook.com",
+            "label": "Email"
+        }
+    ]
+}

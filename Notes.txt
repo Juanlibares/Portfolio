@@ -1,0 +1,8 @@
+Impactar cambios en el repositorio:
+
+git add .
+git commit -m "asd"
+git push -u origin master?
+
+npm run deploy empieza a ejecutarla en levantarla en el repositorio
+npm run dev para trabajarla local antes de hacer el push
