@@ -1,7 +1,6 @@
 // Función para obtener la ruta correcta de las imágenes
 export const getImageUrl = (imagePath) => {
-  // En desarrollo, las imágenes están en /Portfolio/imagePath
-  // En producción, estarán en el base configurado
-  const baseUrl = import.meta.env.DEV ? '/Portfolio' : '';
+  // Para GitHub Pages, siempre necesitamos el base /Portfolio
+  const baseUrl = '/Portfolio';
   return `${baseUrl}${imagePath}`;
 };
